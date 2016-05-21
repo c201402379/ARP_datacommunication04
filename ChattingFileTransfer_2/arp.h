@@ -15,7 +15,7 @@
 #include "resource.h"		// main symbols
 
 /////////////////////////////////////////////////////////////////////////////
-// CIPCApp:
+// CIPCApp:test
 // See ipc.cpp for the implementation of this class
 //
 
